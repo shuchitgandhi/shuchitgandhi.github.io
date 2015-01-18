@@ -643,14 +643,14 @@ header .container {
 }
 
 header .logo{
-	margin-top: 0px;
+	margin-top: 10px;
 	margin-bottom: 10px;
 	padding-left: 10px;
 }
 
 header .logo h1 a, header .logo h1 a:visited, header .logo h1 a:hover{
 	font-size: 35px;
-	color: #777;
+	color: #16a9f9;
 	text-decoration: none;
 	font-weight: normal;
 }
@@ -948,6 +948,21 @@ header .header-data .hdata em{
 	font-size: 12px;
 }
 
+header h1{
+  color: #16a9f9;
+}
+
+header span{
+  color: #25d3a2;
+}
+
+#name{
+  color: #16a9f9;
+}
+#position{
+  font-size: 15px;
+  color: #008cba;
+}
 .label{font-size:75%;font-weight:600}
 .badge.badge-square{-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}
 .badge.badge-default,.label.label-default{background:#b6c2c9}
@@ -2041,7 +2056,7 @@ footer .copy{
 		margin-top: 15px;
 		margin-left: 20px;
 	}
-	
+
 	.navbar{
 		margin-top: 0px !important;
 		margin-bottom: 0px !important;
