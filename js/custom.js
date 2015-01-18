@@ -281,9 +281,9 @@ $(function(){
 
 $(document).ready(function(){
 
-  setTimeout(function() {noty({text: '<strong>Hope you are doing good...</strong>',layout:'topRight',type:'information',timeout:15000});}, 1000);
+  setTimeout(function() {noty({text: '<strong>Hope you are doing good...</strong>',layout:'topRight',type:'information',timeout:7000});}, 1000);
 
-  setTimeout(function() {noty({text: 'Thanks for visiting this Web Platform. For any assistance, contact Shuchit at shuchitgandhi@gmail.com !',layout:'topRight',type:'alert',timeout:13000});}, 3000);
+  setTimeout(function() {noty({text: 'Thanks for visiting this Web Platform. For any assistance, contact Shuchit at shuchitgandhi@gmail.com !',layout:'topRight',type:'alert',timeout:5000});}, 3000);
 
 });
 
