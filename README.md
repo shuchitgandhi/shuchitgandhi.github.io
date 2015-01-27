@@ -1,1 +1,0 @@
-# shuchitgandhi.github.io
